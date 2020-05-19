@@ -3,9 +3,7 @@ CardsMatch is a Card Memory Game. In this game, the player has to flip 2 cards e
 
 **Languages used: HTML, CSS, JavaScript 
 
-## Installation
-Github Link : https://github.com/dawnNM/MemoryGame. 
-Project Link : https://dawnNM.github.io/MemoryGame/ 
+
 
 Team Members :
 	* Dawn Mathews
